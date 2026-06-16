@@ -23,7 +23,7 @@ The dashboard provides insights into total sales, total quantity, transactions, 
 - Data Modeling
 - Data Visualization
 ## Dashboard Preview
-![Mobile Sales Dashboard](Images/Mobile_Sales_Dashboard.png)
+![Mobile Sales Dashboard](Mobile%20Sales%20Performance%20dashboard.JPG)
 ## Project Objective
 The main objective of this dashboard is to analyze mobile sales data and convert raw data into meaningful business insights.  
 It helps understand sales trends, customer preferences, payment behavior, and product performance.
